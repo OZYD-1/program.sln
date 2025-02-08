@@ -1,0 +1,8 @@
+﻿  supermarket.cpp
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(132,20): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(136,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(179,20): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(181,20): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(183,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\supermarket\supermarket\supermarket.cpp(185,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  supermarket.vcxproj -> C:\Users\Acer\source\repos\supermarket\x64\Debug\supermarket.exe
